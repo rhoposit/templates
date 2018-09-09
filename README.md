@@ -41,8 +41,8 @@ Sample 2 Text:
 
 #### Condition A
 
-(1) <audio src="exp_cond/A/1.wav" controls preload></audio>
-(2) <audio src="exp_cond/A/2.wav" controls preload></audio>
+<p>(1) <audio src="exp_cond/A/1.wav" controls preload></audio></p>
+<p>(2) <audio src="exp_cond/A/2.wav" controls preload></audio></p>
 
 
 #### Condition B
