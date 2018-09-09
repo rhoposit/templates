@@ -1,6 +1,7 @@
 ## Audio Samples 
 
-This page provides audio samples from Jennifer Williams's MScR thesis titled: "Syllable-Based Prosody Modeling in DNN Text-to-Speech"
+This page provides audio samples from Jennifer Williams's MScR thesis titled: 
+"Syllable-Based Prosody Modeling in DNN Text-to-Speech"
 
 ### F0 Reconstruction From Templates (Chapter 3)
 
