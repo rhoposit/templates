@@ -1,7 +1,6 @@
-## Audio Samples 
-
+# "Syllable-Based Prosody Modeling in DNN Text-to-Speech"
+## Audio Samples
 This page provides audio samples from Jennifer Williams's MScR thesis titled: 
-"Syllable-Based Prosody Modeling in DNN Text-to-Speech"
 
 ### F0 Reconstruction From Templates (Chapter 3)
 
@@ -9,9 +8,11 @@ This page provides audio samples from Jennifer Williams's MScR thesis titled:
 <img src="kmeans_natural_templates.png" width="500">
 
 ##### k=3, dct=4
+Text: "Uraguay won the game 4 2."
 <audio src="Method1/3_4.mp3" controls preload></audio>
 
 ##### k=6, dct=4
+Text: "Wait.. called the rooster."
 <audio src="Method1/6_4.mp3" controls preload></audio>
 
 
@@ -19,9 +20,11 @@ This page provides audio samples from Jennifer Williams's MScR thesis titled:
 <img src="timeseries_natural_templates.png" width="500">
 
 ##### k=3, dct=4
+Text: "By the forest was a pig in a pen."
 <audio src="Method2/3_4.mp3" controls preload></audio>
 
 ##### k=6, dct=4
+Text: "Better times will come!"
 <audio src="Method2/6_4.mp3" controls preload></audio>
 
 
@@ -29,7 +32,7 @@ This page provides audio samples from Jennifer Williams's MScR thesis titled:
 ### Listening Test Experiments (Chapter 5)
 
 #### Overview of Variable Conditions
-<img src="exp_space.png" width="400">
+<img src="exp_space.png" width="550">
 
 
 Sample 1 Text:
@@ -46,38 +49,38 @@ Sample 2 Text:
 
 
 #### Condition B
-<audio src="exp_cond/B/1.wav" controls preload></audio>
-<audio src="exp_cond/B/2.wav" controls preload></audio>
+<p>(1) <audio src="exp_cond/B/1.wav" controls preload></audio></p>
+<p>(2) <audio src="exp_cond/B/2.wav" controls preload></audio></p>
 
 
 #### Condition C
-<audio src="exp_cond/C/1.wav" controls preload></audio>
-<audio src="exp_cond/C/2.wav" controls preload></audio>
+<p>(1) <audio src="exp_cond/C/1.wav" controls preload></audio></p>
+<p>(2) <audio src="exp_cond/C/2.wav" controls preload></audio></p>
 
 
 #### Condition D
-<audio src="exp_cond/D/1.wav" controls preload></audio>
-<audio src="exp_cond/D/2.wav" controls preload></audio>
+<p>(1) <audio src="exp_cond/D/1.wav" controls preload></audio></p>
+<p>(2) <audio src="exp_cond/D/2.wav" controls preload></audio></p>
 
 
 #### Condition E
-<audio src="exp_cond/E/1.wav" controls preload></audio>
-<audio src="exp_cond/E/2.wav" controls preload></audio>
+<p>(1) <audio src="exp_cond/E/1.wav" controls preload></audio></p>
+<p>(2) <audio src="exp_cond/E/2.wav" controls preload></audio></p>
 
 
 #### Condition F
-<audio src="exp_cond/F/1.wav" controls preload></audio>
-<audio src="exp_cond/F/2.wav" controls preload></audio>
+<p>(1) <audio src="exp_cond/F/1.wav" controls preload></audio></p>
+<p>(2) <audio src="exp_cond/F/2.wav" controls preload></audio></p>
 
 
 #### Condition G
-<audio src="exp_cond/G/1.wav" controls preload></audio>
-<audio src="exp_cond/G/2.wav" controls preload></audio>
+<p>(1) <audio src="exp_cond/G/1.wav" controls preload></audio></p>
+<p>(2) <audio src="exp_cond/G/2.wav" controls preload></audio></p>
 
 
 #### Condition H
-<audio src="exp_cond/H/1.wav" controls preload></audio>
-<audio src="exp_cond/H/2.wav" controls preload></audio>
+<p>(1) <audio src="exp_cond/H/1.wav" controls preload></audio></p>
+<p>(2) <audio src="exp_cond/H/2.wav" controls preload></audio></p>
 
 
 #### Condition I
