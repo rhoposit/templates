@@ -25,7 +25,9 @@ This page provides audio samples from Jennifer Williams's MScR thesis titled: "S
 
 
 
-### Experimental Conditions (Chapter 5)
+### Listening Test Experiments (Chapter 5)
+
+#### Overview of Variable Conditions
 <img src="exp_space.png" width="400">
 
 #### Condition A
