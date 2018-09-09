@@ -31,9 +31,18 @@ This page provides audio samples from Jennifer Williams's MScR thesis titled:
 #### Overview of Variable Conditions
 <img src="exp_space.png" width="400">
 
+
+Sample 1 Text:
+"The thief told the guards he had come from far, far away, just to see the palace."
+
+
+Sample 2 Text:
+"She held the bottle in a tembling hand."
+
 #### Condition A
-<audio src="exp_cond/A/1.wav" controls preload></audio>
-<audio src="exp_cond/A/2.wav" controls preload></audio>
+
+(1) <audio src="exp_cond/A/1.wav" controls preload></audio>
+(2) <audio src="exp_cond/A/2.wav" controls preload></audio>
 
 
 #### Condition B
