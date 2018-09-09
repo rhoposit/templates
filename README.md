@@ -20,7 +20,7 @@ This page provides audio samples from Jennifer Williams's MScR thesis titled: "S
 
 ### Experimental Conditions
 
-[insert chart here showing experiment matrix]
+![alt text](https://github.com/rhoposit/templates/blob/master/exp_space.png)
 
 #### Condition A
 #### Condition B
