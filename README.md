@@ -84,7 +84,7 @@ Sample 2 Text:
 
 
 #### Condition I
-<audio src="exp_cond/I/1.wav" controls preload></audio>
-<audio src="exp_cond/I/2.wav" controls preload></audio>
+<p>(1) <audio src="exp_cond/I/1.wav" controls preload></audio></p>
+<p>(2) <audio src="exp_cond/I/2.wav" controls preload></audio></p>
 
 
