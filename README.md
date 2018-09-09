@@ -8,7 +8,7 @@ This page provides audio samples from Jennifer Williams's MScR thesis titled: "S
 <img src="https://github.com/rhoposit/templates/blob/master/kmeans_natural_templates.png" width="500">
 
 ##### k=3, dct=4
-<audio src="Method1/3_4.wav" controls preload></audio>
+<audio src="https://github.com/rhoposit/templates/blob/master/Method1/3_4.mp3" controls preload></audio>
 
 ##### k=6, dct=4
 <audio src="Method1/6_4.wav" controls preload></audio>
