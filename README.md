@@ -26,15 +26,50 @@ This page provides audio samples from Jennifer Williams's MScR thesis titled: "S
 
 
 ### Experimental Conditions (Chapter 5)
-
-![alt text](https://github.com/rhoposit/templates/blob/master/exp_space.png)
+<img src="exp_space.png" width="400">
 
 #### Condition A
+<audio src="exp_cond/A/1.mp3" controls preload></audio>
+<audio src="exp_cond/A/2.mp3" controls preload></audio>
+
+
 #### Condition B
+<audio src="exp_cond/B/1.mp3" controls preload></audio>
+<audio src="exp_cond/B/2.mp3" controls preload></audio>
+
+
 #### Condition C
+<audio src="exp_cond/C/1.mp3" controls preload></audio>
+<audio src="exp_cond/C/2.mp3" controls preload></audio>
+
+
 #### Condition D
+<audio src="exp_cond/D/1.mp3" controls preload></audio>
+<audio src="exp_cond/D/2.mp3" controls preload></audio>
+
+
 #### Condition E
+<audio src="exp_cond/E/1.mp3" controls preload></audio>
+<audio src="exp_cond/E/2.mp3" controls preload></audio>
+
+
 #### Condition F
+<audio src="exp_cond/F/1.mp3" controls preload></audio>
+<audio src="exp_cond/F/2.mp3" controls preload></audio>
+
+
 #### Condition G
+<audio src="exp_cond/G/1.mp3" controls preload></audio>
+<audio src="exp_cond/G/2.mp3" controls preload></audio>
+
+
 #### Condition H
+<audio src="exp_cond/H/1.mp3" controls preload></audio>
+<audio src="exp_cond/H/2.mp3" controls preload></audio>
+
+
 #### Condition I
+<audio src="exp_cond/I/1.mp3" controls preload></audio>
+<audio src="exp_cond/I/2.mp3" controls preload></audio>
+
+
